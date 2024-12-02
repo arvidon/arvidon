@@ -1,9 +1,31 @@
-# About me 
+# Hi there! 👋
+I'm **Shagun Songara** a passionate developer  
+I love creating tools that make the world a better place
 
-## Hobbies
+## **Skills and Tools** 💻
+- **Languages**: HTML, CSS, Python
+- **Tools**: Git, VScode, Figma
 
-I love to read, listen to great music, travel.
+## **Interests**
+- Open-source projects in healthcare and Fintech
+- Building a saas app
 
-# Accomplishments
+## **Current Goals**
+- Python for Finance and data science
 
-MIT Emerging Talent
+## **Accomplishments**
+
+* MIT Emerging Talent
+* C18U18 Finalist
+* Fortis x Athena challenge Finalist
+* High Commendation from John Locke Institute Essay Writing 
+
+<br>
+
+| ***FUN FACTS***       |
+|-----------------------|
+|*I can walk for hours* |
+|*I can listen to one kind of music piece for hours, days and even months*|
+
+## **Contact Me**
+- *Email*: songarashagun@gmail.com
