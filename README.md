@@ -33,7 +33,6 @@ I love creating tools that make the world a better place
 |*I can walk for hours* |
 |*I can listen to one kind of music piece for hours, days and even months*|
 
-
 ## **Contact Me**
 
 - *Email*: <songarashagun@gmail.com> 
